@@ -4,11 +4,11 @@ Hello folks, I’m Chandra Bhanu Singh
 - 💞️ I provide trainings in Data Visualization and SQL and love mentoring aspiring data professional wuth my 8 years of industry experience.
 - 📫 You can reach out to me at cbpspratap@gmail.com or connect me on linkedIn
 
-LinkedIn: https://www.linkedin.com/in/cbpspratap/
+     LinkedIn: https://www.linkedin.com/in/cbpspratap/
 
-email: cbpspratap@gmail.com
+     email: cbpspratap@gmail.com
 
-I will be publishing my SQL & Tableau training materials here.
+I will be publishing my SQL & Tableau training materials here. 
 
 Click on the banner below to access the SQL Training course.
 
