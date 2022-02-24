@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chandra Bhanu Singh
+Hello folks, I’m Chandra Bhanu Singh
 - 👀 I’m a Data Enthusiast, Data Analytics Professsional and Trainer
 - 🌱 I love learning new data stuff and sharing my knowledge with budding data professionals
 - 💞️ I provide trainings in Data Visualization and SQL and love mentoring aspiring data professional wuth my 8 years of industry experience.
