@@ -8,7 +8,7 @@ LinkedIn: https://www.linkedin.com/in/cbpspratap/
 
 email: cbpspratap@gmail.com
 
-I will be publishing my SQL & Tableau training materials here, you can use it to learn and grow.
+I will be publishing my SQL & Tableau training materials here.
 
 Click on the banner below to access the SQL Training course.
 
