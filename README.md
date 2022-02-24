@@ -10,6 +10,8 @@ email: cbpspratap@gmail.com
 
 I will be publishing my SQL & Tableau training materials here, you can use it to learn and grow.
 
+Click [here](https://github.com/cbpspratap/SQLTraining) to access the SQL Training course.
+
 Thanks,
 
 Chandra Bhanu
