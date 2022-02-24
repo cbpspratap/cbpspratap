@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chandra Bhanu Singh
-- 👀 I’m a data enthusiast and a Data Analytics professsional
+- 👀 I’m a Data Enthusiast, Data Analytics Professsional and Trainer
 - 🌱 I love learning new data stuff and sharing my knowledge with budding data professionals
 - 💞️ I provide trainings in Data Visualization and SQL and love mentoring aspiring data professional wuth my 8 years of industry experience.
 - 📫 You can reach out to me at cbpspratap@gmail.com or connect me on linkedIn
