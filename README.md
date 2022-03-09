@@ -12,7 +12,7 @@ I will be publishing my SQL & Tableau training materials here.
 
 Click on the banner below to access the SQL Training course.
 
-[![image](https://user-images.githubusercontent.com/67796162/155576516-8894800e-56ae-4979-aa10-8e7d517748f0.png)](https://github.com/cbpspratap/SQLTraining)
+[![image](https://user-images.githubusercontent.com/67796162/155576516-8894800e-56ae-4979-aa10-8e7d517748f0.png)](https://github.com/cbpspratap/SQLTraining/blob/main/README.md)
 
 <!---
 cbpspratap/cbpspratap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
